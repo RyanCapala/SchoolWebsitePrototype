@@ -1,0 +1,93 @@
+body,
+html {
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+#firstNavbar {
+    font-size: 10px;
+    padding: 0;
+    padding-right: 50px;
+}
+
+#unlv {
+    font-size: 10px;
+    padding-left: 50px;
+}
+
+#secondNavbar {
+    background-color: #AD181D;
+    margin-top: 30px;
+    padding: 0;
+}
+
+#secondNavbarContainer {
+    background: #AD181D;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#brandImg {
+    width: 35px;
+}
+
+#cover {
+    background: url("./images/darkunlvview.jpg");
+    height: 100%;
+    background-size: cover;
+    color: #FDFDFD;
+    text-align: center;
+    align-items: center;
+    float: none;
+    display: flex;
+}
+
+#cover a {
+    color: #FDFDFD;
+}
+
+#cover2 {
+    background: red;
+    height: 100%;
+}
+
+#leftSide {
+    align-content: center;
+    text-align: center;
+    background: #E01E3B;
+    height: 100%;
+    width: 500px;
+    float: left;
+}
+
+#rightSide {
+    background: url("/images/unlv_capmus.jpg") center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    float: left;
+}
+
+#unlvLetters {
+    margin-top: 20px;
+}
+
+#loginForm {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn-link {
+    color: #FDFDFD
+}
+
+.btn-link:hover {
+    color: gray;
+}
+
+#bottomImg {
+    padding-top: 20px;
+    width: 100%;
+}

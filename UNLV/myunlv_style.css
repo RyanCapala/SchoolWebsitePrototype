@@ -1,0 +1,48 @@
+body,
+html {
+    height: 100%;
+}
+
+#admin-info-section {
+    background: #E01E3B;
+    margin-top: 0;
+}
+
+.admin-row {
+    /* height: 100%; */
+    margin-top: 50px;
+}
+
+.card-left {
+    background: transparent;
+    border: none;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#right-side {
+    /* background: url("./images/graduate.jpg") center center no-repeat; */
+    background-size: cover;
+    height: 100%;
+    float: none;
+}
+
+#unlvLetters {
+    padding-top: 40px;
+}
+
+#loginForm {
+    padding-top: 50px;
+}
+
+.forgot-btn {
+    color: black;
+}
+
+.forgot-btn:hover {
+    color: #E01E3B;
+    background-color: white;
+}
